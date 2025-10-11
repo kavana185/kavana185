@@ -18,10 +18,11 @@
 
 ## 💻 Tech Stack
 
-**Programming Languages:** C, C++, Python, JavaScript, HTML, CSS  
-**Web Development:** React, Node.js, Express, MongoDB  
+**Programming Languages:** C, C++, Python, JavaScript
+**Web Development:**  HTML, CSS, Node.js, React, Express
+**Database:** MongoDB, MySQL
 **Data & AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Plotly, SciPy  
-**Tools & Platforms:** Git, GitHub, VS Code, Docker, Anaconda, Postgres, Blender  
+**Tools & Platforms:** Git, GitHub, VS Code, Tableau  
 **Other Skills:** UI/UX Design, Data Visualization, Networking, DSA
 
 
