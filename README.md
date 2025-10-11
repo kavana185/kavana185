@@ -18,7 +18,12 @@
 
 ## 💻 Tech Stack
 
-Python | C++ | C | JavaScript | HTML | CSS | Anaconda | Postgres | Blender | PyTorch | TensorFlow | Keras | scikit-learn | Pandas | NumPy | Plotly | SciPy | Docker
+**Programming Languages:** C, C++, Python, JavaScript, HTML, CSS  
+**Web Development:** React, Node.js, Express, MongoDB  
+**Data & AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Plotly, SciPy  
+**Tools & Platforms:** Git, GitHub, VS Code, Docker, Anaconda, Postgres, Blender  
+**Other Skills:** UI/UX Design, Data Visualization, Networking, DSA
+
 
 ---
 
