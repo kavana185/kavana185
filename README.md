@@ -1,55 +1,32 @@
-# 👋 Hi, I'm Kavana M A
+# 💫 About Me
 
-🎓 **Computer Science & Engineering Student** at BMS College of Engineering, Bangalore  
-💻 Passionate about **Software Development**, **Networking**, and **Creative Problem Solving**
+🔭 I’m currently working on  
+- Fake Social Media Detection (as discussed for mini project)  
+- AI Memory Coach  
 
----
+👯 I’m looking to collaborate on  
+- Web development projects  
+- Machine learning projects  
+- Open-source initiatives in these fields  
 
-## 🚀 About Me
-
-I'm a 3rd-year CSE student at BMSCE with a strong foundation in **C++, JavaScript**, and **full-stack web development**. I enjoy transforming ideas into functional applications and am actively involved in projects that blend technology with creativity.
-
-- **Current Focus**: Developing a **3D Rocket Trajectory Visualizer** using **Three.js** and **JavaScript**  
-- **Certifications**: Responsive Web Design by freeCodeCamp  
-- **Achievements**:  
-  - Reliance Foundation Undergraduate Scholar ’23 (Top 5000 nationally)  
-  - JEE-Mains 97.3 percentile — KCET Rank: 1084 (2023)
-
----
-
-## 🧠 Skills
-
-### Languages
-C, C++, Python, JavaScript
-
-### Web Development
-HTML, CSS, Node.js, Express, MongoDB
-
-### Tools & Platforms
-Git, GitHub, VS Code
-
-### Other Interests
-Networking, UI/UX Design, Cryptography, DBMS, DSA
+🌱 I’m currently learning  
+- Machine Learning  
+- Cloud Computing  
+- In development: React  
 
 ---
 
-## 📂 Projects
+## 💻 Tech Stack
 
-Here are some of my notable projects:
+Python | C++ | C | JavaScript | HTML | CSS | Anaconda | Postgres | Blender | PyTorch | TensorFlow | Keras | scikit-learn | Pandas | NumPy | Plotly | SciPy | Docker
 
-- **Survey Form**: Basic HTML + CSS project  
-- **Tribute Page**: Basic HTML + CSS project  
-- **Technical Documentation**: Basic HTML + CSS project  
-- **Product Landing Page**: Basic HTML + CSS project  
-- **Skill Swap**: Full-stack app built with HTML, CSS, JS  
-- **Packet Sniffer**: Displays IP, ports, and protocols (TCP/UDP)  
-- **Port Scanner**: Scans a given host for open ports in a specified range  
-- **Simple Chat Application**: Networking-related project  
-- **Rocket Trajectory Visualizer**: 3D rocket trajectory project with JS/Three.js  
-- **QuickCare**: Healthcare app frontend & UI/UX design  
-- **Maskify Extension**: Browser extension to hide sensitive data
+---
 
-Explore more on my [Portfolio](https://kavana185.github.io/Portfolio/).
+## 📊 GitHub Stats
+
+![Kavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavana185&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavana185&layout=compact&theme=radical)
 
 ---
 
